@@ -1,0 +1,2 @@
+MetaCTF{th15_15_sql1t3_w0rk_f0r_y0u}
+
