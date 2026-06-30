@@ -2,7 +2,7 @@
 
 **Ranked 11th** out of all participating teams · [View team scoreboard](./stats.png)
 
-9 challenges solved across web, crypto, forensics, recon, and privilege escalation.
+The challenges solved across web, crypto, forensics, recon, and privilege escalation.
 
 | Challenge | Category | Vulnerability / Concept |
 |---|---|---|
