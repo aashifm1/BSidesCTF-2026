@@ -1,6 +1,6 @@
 # BSides Bangalore CTF 2026 — Writeups
 
-**Ranked 11th** out of all participating teams · [View team scoreboard](https://compete.metactf.com/605/view_team?tid=89249)
+**Ranked 11th** out of all participating teams · [View team scoreboard](./stats.png)
 
 9 challenges solved across web, crypto, forensics, recon, and privilege escalation.
 
