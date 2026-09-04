@@ -1,0 +1,1 @@
+MetaCTF{JWT_N0n3_4lg_3xpl01t}
