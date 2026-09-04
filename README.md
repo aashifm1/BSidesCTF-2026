@@ -15,6 +15,12 @@ The challenges solved across web, crypto, forensics, recon, and privilege escala
 | [memorial-mysteries](./memorial-mysteries/) | Forensics | Steganography / hidden data |
 | [what-a-dump](./what-a-dump/) | Forensics | Memory dump analysis |
 | [whereport](./whereport/) | Networking | Port scanning / service enumeration |
+| [National-ID-Schema](./National-ID-Schema/) | Reverse Engineering | Algorithm reversal / `memcmp` hooking |
+| [None-Shall-Pass](./None-Shall-Pass/) | Web | JWT `none` algorithm bypass |
+| [i-dont-note-you-note](./i-dont-note-you-note/) | Web | Unicode path traversal |
+| [titan-chronos](./titan-chronos/) | Privilege Escalation | Cron persistence / insecure script |
+| [vardetta](./vardetta/) | Pwn | Buffer overflow |
+
 
 Each folder contains a full writeup: challenge description, thought process, tools used, and the flag.
 
